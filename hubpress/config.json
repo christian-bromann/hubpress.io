@@ -1,10 +1,10 @@
 {
   "meta": {
-    "username": "put your username here",
+    "username": "christian-bromann",
     "repositoryName": "put your repository name here",
     "branch": "master"
   },
   "theme": {
-    "name": "Casper"
+    "name": "uno"
   }
 }
