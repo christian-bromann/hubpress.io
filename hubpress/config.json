@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "christian-bromann",
-    "repositoryName": "hubpress.io",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "uno"
-  }
-}
+{"meta":{"username":"christian-bromann","repositoryName":"hubpress.io","branch":"gh-pages"},"site":{"title":"Christian Bromann","description":"Webdev bla","url":"http://christian-bromann.github.io/hubpress.io"},"socialnetwork":{"email":"mail@christian-bromann.com","twitter":"bromann","github":"christian-bromann"},"theme":{"name":"uno","url":"http://christian-bromann.github.io/hubpress.io/themes/uno"}}
